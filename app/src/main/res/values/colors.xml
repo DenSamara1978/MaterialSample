@@ -3,4 +3,9 @@
     <color name="colorPrimary">#FF0000</color>
     <color name="colorPrimaryDark">#00FF00</color>
     <color name="colorAccent">#0000FF</color>
+
+    <color name="editTextHintColor">#808000</color>
+    <color name="editTextColor">#808000</color>
+    <color name="strokeColorActivated">#00FF00</color>
+    <color name="strokeColorNormal">#008000</color>
 </resources>
